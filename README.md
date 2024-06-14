@@ -1,6 +1,6 @@
 ## Hi, my name is Sammy!
 
-I am currently a  post-baccalaureate research technician at the Levin Lab of Embodied Minds at Tufts University, where I study morphogenesis, cancer, aging, and information processing in biological organisms. I am also learning and building deep learning models in my spare time, and documenting my progress along the way.. To learn more, please visit [my website](https://sammyhansali.com).
+I am currently a  post-baccalaureate research technician at the Levin Lab of Embodied Minds at Tufts University, where I study morphogenesis, cancer, aging, and information processing in biological organisms. I am also learning and building deep learning models in my spare time, and documenting my progress along the way... To learn more, please visit [my website](https://sammyhansali.com) or check the buttons below!
 
 ## Technologies and Tools
 
