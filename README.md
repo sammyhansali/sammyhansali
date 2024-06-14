@@ -8,9 +8,9 @@ Here are some of the languages, libraries, and tools I have experience working w
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/hello-sweet%20world-orange?style=flat&labelColor=gray&color=orange)
-![Java](https://img.shields.io/badge/Java-sweet%20world-orange?style=flat&labelColor=gray&color=orange)
-![R](https://img.shields.io/badge/R-sweet%20world-orange?style=flat&labelColor=gray&color=orange)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ### Frameworks and Libraries
 
